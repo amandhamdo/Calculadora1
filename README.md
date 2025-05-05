@@ -14,3 +14,8 @@ Este projeto é uma **calculadora simples** desenvolvida com **HTML**, **CSS** e
 - **HTML** para a estruturação da página.
 - **CSS** para o estilo da interface.
 - **JavaScript** para a lógica de funcionamento da calculadora.
+
+
+## 📸 Imagem do Projeto
+![Calculadora-Simples](./src/image.png)
+
