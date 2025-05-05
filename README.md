@@ -14,9 +14,3 @@ Este projeto é uma **calculadora simples** desenvolvida com **HTML**, **CSS** e
 - **HTML** para a estruturação da página.
 - **CSS** para o estilo da interface.
 - **JavaScript** para a lógica de funcionamento da calculadora.
-
-## 📦 Como Usar
-
-1. Faça o **clone** deste repositório para o seu computador:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
